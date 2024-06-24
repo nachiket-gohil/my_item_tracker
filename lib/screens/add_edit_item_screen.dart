@@ -41,6 +41,7 @@ class _AddEditItemScreenState extends State<AddEditItemScreen> {
       appBar: AppBar(
         backgroundColor: Theme.of(context).primaryColorLight,
         elevation: 6,
+        shadowColor: Colors.grey[100],
         toolbarHeight: 70,
         title: Text(
           widget.item == null ? 'Add Item' : 'Edit Item',

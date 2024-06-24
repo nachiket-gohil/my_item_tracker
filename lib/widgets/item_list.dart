@@ -14,6 +14,7 @@ class ItemList extends StatelessWidget {
           itemCount: itemProvider.items.length,
           itemBuilder: (context, index) {
             final item = itemProvider.items[index];
+
             return ItemTile(
               item: item,
               index: index,
