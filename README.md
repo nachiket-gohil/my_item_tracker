@@ -8,9 +8,7 @@ This app is able to run on Android, iOS, and Web.
 
 ## Problem Statement
 
-There is an assignment assigned to selected candidates by the client. 
-Please complete it by ASAP and and send directly to jhansi@monocept.com and kapil.negi@quetechtrainingsllp.com. 
-Please name the file with your name so that its easy for client to figure out.
+Android App Download Link - 
 
 ### Assignment:- 
 Flutter Item Tracker with State Management, Testing.
