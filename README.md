@@ -6,9 +6,21 @@ A new Item Tracker Flutter project.
 
 This app is able to run on Android, iOS, and Web.
 
-## Problem Statement
+User below flutter version:
 
-Android App Download Link - 
+[✓] Flutter (Channel stable, 3.22.0, on macOS 14.5 23F79 darwin-arm64, locale en-IN)
+
+[✓] Android toolchain - develop for Android devices (Android SDK version 34.0.0)
+
+[✓] Xcode - develop for iOS and macOS (Xcode 15.4)
+
+[✓] Chrome - develop for the web
+
+To run into android, ios & web app - 
+Select appropriate target device and
+`flutter run`
+
+## Problem Statement
 
 ### Assignment:- 
 Flutter Item Tracker with State Management, Testing.
@@ -34,7 +46,11 @@ The application should manage its state using the Provider package.
 
 ### Requirements:-
 • Use Provider for state management.
+
 • Include unit tests for your business logic.
+
 • Include widget tests for your UI.
+
 • Use RenderBox to measure and position one of the widgets.
+
 • Ensure the app is responsive and works on both web and mobile platforms.
