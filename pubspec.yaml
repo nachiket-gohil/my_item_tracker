@@ -1,4 +1,4 @@
-name: item_tracker
+name: my_item_tracker
 description: "A new Item Tracker Flutter project."
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 

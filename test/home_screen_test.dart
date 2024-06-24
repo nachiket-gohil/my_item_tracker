@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:item_tracker/providers/item_provider.dart';
-import 'package:item_tracker/screens/my_item_list.dart';
+import 'package:my_item_tracker/providers/item_provider.dart';
+import 'package:my_item_tracker/screens/my_item_list.dart';
 import 'package:provider/provider.dart';
 
 void main() {

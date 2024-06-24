@@ -1,4 +1,4 @@
-# item_tracker
+# my_item_tracker
 
 A new Item Tracker Flutter project.
 

@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="item_tracker"
+        android:label="my_item_tracker"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

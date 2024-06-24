@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:item_tracker/models/item.dart';
-import 'package:item_tracker/providers/item_provider.dart';
+import 'package:my_item_tracker/models/item.dart';
+import 'package:my_item_tracker/providers/item_provider.dart';
 
 void main() {
   group('ItemProvider Tests', () {
